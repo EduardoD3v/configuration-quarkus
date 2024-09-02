@@ -1,4 +1,4 @@
-package edu4rdo.corp;
+package edu4rdo;
 
 import jakarta.enterprise.context.ApplicationScoped;
 import jakarta.inject.Inject;

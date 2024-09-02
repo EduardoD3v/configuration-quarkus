@@ -1,4 +1,4 @@
-package edu4rdo.corp;
+package edu4rdo;
 
 import io.quarkus.runtime.Quarkus;
 import io.quarkus.runtime.QuarkusApplication;

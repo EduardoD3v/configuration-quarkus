@@ -1,4 +1,4 @@
-package edu4rdo.corp;
+package edu4rdo;
 
 import io.smallrye.config.ConfigMapping;
 import io.smallrye.config.WithDefault;
